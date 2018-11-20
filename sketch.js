@@ -3,7 +3,7 @@ var mc3;
 var mc5;
 
 function preload(){
-  mc2 = loadImage("assets/medievalcat2.jpg");
+  
   mc3 = loadImage("assets/medievalcat3.jpg");
   mc5 = loadImage("assets/medievalcat5.jpg");
   mySong = loadSound("./assets/music.mp3");
